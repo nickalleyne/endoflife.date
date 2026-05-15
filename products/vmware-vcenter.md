@@ -23,16 +23,16 @@ identifiers:
 releases:
   - releaseCycle: "9.1"
     releaseDate: 2026-05-12
-    eol: 2031-05-12
-    technicalGuidance: 2033-05-12
+    eol: 2028-08-12
+    technicalGuidance: 2030-08-12
     latest: "9.1.0.0"
     latestReleaseDate: 2026-05-12
-    link: https://techdocs.broadcom.com/us/en/vmware-cis/vsphere/vsphere/9-0/release-notes/vcenter-server-appliance-photonos-security-patches.html
+    link: https://techdocs.broadcom.com/us/en/vmware-cis/vsphere/vsphere/9-1/release-notes/vcenter-server-appliance-photonos-security-patches.html
     
   - releaseCycle: "9.0"
     releaseDate: 2025-06-17
-    eol: 2030-06-17
-    technicalGuidance: 2032-06-17
+    eol: 2027-09-17
+    technicalGuidance: 2029-09-17
     latest: "9.0.2.0"
     latestReleaseDate: 2026-01-20
     link: https://techdocs.broadcom.com/us/en/vmware-cis/vsphere/vsphere/9-0/release-notes/vcenter-server-appliance-photonos-security-patches.html
@@ -106,7 +106,7 @@ releases:
     latestReleaseDate: 2013-01-31
 ---
 
-> [VMware vCenter Server](https://www.vmware.com/products/vcenter.html) is an advanced server
+> [VMware vCenter Server](https://www.vmware.com/products/cloud-infrastructure/vcenter/future-overview) is an advanced server
 > management software that provides a centralized platform for controlling vSphere environments for
 > visibility across hybrid clouds.
 
@@ -114,7 +114,7 @@ VMware typically supports vCenter for a duration of 7 years with 5 years of gene
 additional 2 years of technical guidance during which vCenter will no longer receive bug fixes and
 security updates.
 
-## [General Support](https://lifecycle.vmware.com/)
+## [General Support](https://support.broadcom.com/web/ecx/productlifecycle)
 
 The last date on which you can request support; the end of regular VMware maintenance updates and
 upgrades, _bug and security fixes,_ and technical assistance as per the Support and Subscription
