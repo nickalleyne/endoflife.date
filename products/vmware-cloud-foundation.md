@@ -16,9 +16,17 @@ changelogTemplate: https://docs.vmware.com/en/VMware-Cloud-Foundation/__LATEST__
 eolColumn: General Support
 
 releases:
-  - releaseCycle: "9.0"
+  - releaseCycle: "9.1"
+    releaseDate: 2026-05-12
+    eol: 2028-08-12
+    # technicalGuidance: ???
+    latest: "9.1.0.0"
+    latestReleaseDate: 2026-05-12
+    link: https://techdocs.broadcom.com/us/en/vmware-cis/vcf/vcf-9-0-and-later/9-1/release-notes/vmware-cloud-foundation-9-1-0-0-release-notes.html
+
+- releaseCycle: "9.0"
     releaseDate: 2025-06-17
-    eol: false
+    eol: 2027-09-17
     # technicalGuidance: ???
     latest: "9.0.2.0"
     latestReleaseDate: 2026-01-20
@@ -26,7 +34,7 @@ releases:
 
   - releaseCycle: "5.2"
     releaseDate: 2024-07-23
-    eol: false
+    eol: 2027-10-11
     # technicalGuidance: ???
     latest: "5.2.3"
     latestReleaseDate: 2026-02-24
